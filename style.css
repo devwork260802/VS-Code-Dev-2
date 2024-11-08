@@ -53,7 +53,7 @@ input:checked:before{
   left: 50px;
 }
 .checkbox .text:before{
-  content: "No Visto";
+  content: "No Vist";
   font-size: 25px;
   font-weight: 500;
   color: #bfbfbf;
