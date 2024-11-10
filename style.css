@@ -61,5 +61,5 @@ input:checked:before{
 input:checked ~ .text:before{
   color: #664AFF;
   font-size: 25px;
-  content: "Visto";
+  content: "Vist";
 }
